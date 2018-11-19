@@ -1,10 +1,14 @@
 # simpleProgLang
+
+
+
+
 #############################################
-#
-#   BNF Grammar
-#
-##
-## <statement_list> ::=  <statement_list> <statement> ;
+## #
+## #  BNF Grammar
+## #
+## #
+## # <statement_list> ::=  <statement_list> <statement> ;
 ##                  | <statement> 
 ##
 ## <statement>  ::= MAKECLASS CLASSNAME <statement_list> ;
